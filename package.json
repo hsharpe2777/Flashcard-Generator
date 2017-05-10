@@ -1,0 +1,22 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "json file for flashcard app",
+  "main": "12",
+  "scripts": {
+    "test": "node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hsharpe2777/Flashcard-Generator.git"
+  },
+  "author": "Henrietta",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/hsharpe2777/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/hsharpe2777/Flashcard-Generator#readme",
+  "dependencies": {
+    "inquirer": "^3.0.6"
+  }
+}
